@@ -4,6 +4,10 @@
   min-height: 100vh;
 }
 
+body {
+  background-image: radial-gradient(circle 939px at 94.7% 50%, rgb(242, 255, 0) 0%, rgb(174, 169, 106) 76.9%);
+}
+
 .main{
   flex-grow: 1;
 }
