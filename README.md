@@ -35,5 +35,5 @@ Este comando iniciará el servidor de desarrollo proporcionado por Vite.
 
 ### Link Deploy del Proyecto 🥂
 
-- [HelloFriends](hello-friends-gif.netlify.app) 
+- [HelloFriends](https://hello-friends-gif.netlify.app/) 
 
