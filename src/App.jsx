@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <Container className="main text-center container-fluid">
+    <Container className="main text-center container-fluid mt-5">
     <Hello saludo={"my Friends with props"}/>
     </Container>
     <Footer/>
