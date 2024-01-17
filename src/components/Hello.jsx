@@ -4,7 +4,7 @@ import HomerBart  from './img/bartHomer.gif'
  const Hello = ({saludo}) => {
   return (
     <>
-    <h1 className='text-center'>Hello {saludo}</h1>
+    <h1 className='text-center mt-5'>Hello {saludo}</h1>
     <img className='img-fluid' src={HomerBart} alt="bart-homero" />
     </>
   )
